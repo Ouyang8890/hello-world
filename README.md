@@ -1,2 +1,2 @@
-# hello-world
+# hi-world
 Just another resopitory
